@@ -1,0 +1,16 @@
+{
+    "users": [
+     {
+       " password": "Hello"
+      }
+     ]
+    "filename": "index.js",
+    "access": [
+        "6283895488404",
+        "62"
+    ],
+    "access_bot": [
+        "6283895488404",
+        "62"
+    ]
+}
