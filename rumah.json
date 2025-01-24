@@ -1,10 +1,10 @@
 {
     "users": [
-     {
-       " password": "Hello"
-      }
-     ]
-    "filename": "index.js",
+        {
+            "password": "KONTOL"
+        }
+    ],
+    "filename": "VampireBUG.js",
     "access": [
         "6281389190204",
         "62"
@@ -12,5 +12,6 @@
     "access_bot": [
         "6281389190204",
         "62"
-    ]
+    ],
+    "bot_token": "7895500523:AAH7PHfKY8FRmY2uvdVnLuaF6MScZbL97xg"
 }
