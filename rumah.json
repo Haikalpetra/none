@@ -4,14 +4,14 @@
             "password": "KONTOL"
         }
     ],
-    "filename": "index.js",
-    "access": [
-        "6281389190204",
-        "62"
+    "filename": "Infernox.js",
+
     ],
-    "access_bot": [
-        "6281389190204",
-        "62"
+    "bot_token": "7895500523:AAH7PHfKY8FRmY2uvdVnLuaF6MScZbL97xg",
+
     ],
-    "bot_token": "7895500523:AAH7PHfKY8FRmY2uvdVnLuaF6MScZbL97xg"
+    "bot_token": "7895500523:AAH7PHfKY8FRmY2uvdVnLuaF6MScZbL97xg",
+    
+    [],
+                 
 }
