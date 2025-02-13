@@ -1,17 +1,5 @@
 {
-    "users": [
-        {
-            "password": "KONTOL"
-        }
-    ],
-    "filename": "Infernox.js",
-
-    ],
-    "bot_token": "7895500523:AAH7PHfKY8FRmY2uvdVnLuaF6MScZbL97xg",
-
-    ],
-    "bot_token": "7895500523:AAH7PHfKY8FRmY2uvdVnLuaF6MScZbL97xg",
-    
-    [],
-                 
+  "tokens": [
+    "7895500523:AAEczltNdsW9TkriMz-iOjqGnvJF1ovLf2M",
+  ]
 }
